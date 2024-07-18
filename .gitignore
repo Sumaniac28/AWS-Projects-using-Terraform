@@ -1,2 +1,5 @@
 /vpc_igw/.terraform/
 /vpc_igw/.terraform.lock.hcl
+
+/pub_subnet/.terraform/
+/pub_subnet/.terraform.lock.hcl
