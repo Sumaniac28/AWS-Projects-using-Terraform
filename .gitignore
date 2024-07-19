@@ -3,3 +3,8 @@
 
 /pub_subnet/.terraform/
 /pub_subnet/.terraform.lock.hcl
+
+/private_nat/.terraform/
+/private_nat/.terraform.lock.hcl
+/private_nat/terraform.tfstate
+/private_nat/terraform.tfstate.backup
