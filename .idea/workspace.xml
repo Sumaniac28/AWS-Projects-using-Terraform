@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6651e6f8-bade-4f13-aa4d-4d716a6baae7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/private_nat/eip.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/private_nat/nat.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/private_nat/privatesubnet.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/private_nat/provider.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/private_nat/route_associate.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/private_nat/vars.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/private_nat/versions.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacl_sg/nacl.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacl_sg/output.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacl_sg/provider.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacl_sg/vars.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacl_sg/versions.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -66,7 +64,8 @@
       <workItem from="1718961921123" duration="653000" />
       <workItem from="1721310787224" duration="7258000" />
       <workItem from="1721329209749" duration="1316000" />
-      <workItem from="1721411256733" duration="5368000" />
+      <workItem from="1721411256733" duration="7587000" />
+      <workItem from="1721466284029" duration="2879000" />
     </task>
     <servers />
   </component>

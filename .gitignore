@@ -8,3 +8,7 @@
 /private_nat/.terraform.lock.hcl
 /private_nat/terraform.tfstate
 /private_nat/terraform.tfstate.backup
+
+/nacl_sg/.terraform.lock.hcl
+/nacl_sg/.terraform/
+/nacl_sg/terraform.tfstate
