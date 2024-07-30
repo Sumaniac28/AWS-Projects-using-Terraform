@@ -12,3 +12,6 @@
 /nacl_sg/.terraform.lock.hcl
 /nacl_sg/.terraform/
 /nacl_sg/terraform.tfstate
+
+/ec2_userdata_sg/.terraform/
+/ec2_userdata_sg/.terraform.lock.hcl
