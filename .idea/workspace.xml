@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6651e6f8-bade-4f13-aa4d-4d716a6baae7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ec2_userdata_sg/ec2_sg.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec2_userdata_sg/provider.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec2_userdata_sg/vars.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec2_userdata_sg/versions.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iam_user_and_policy/provider.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iam_user_and_policy/scenario1.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iam_user_and_policy/scenario2.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iam_user_and_policy/vars.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iam_user_and_policy/versions.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -70,7 +71,13 @@
       <workItem from="1721670341522" duration="1110000" />
       <workItem from="1721757697855" duration="621000" />
       <workItem from="1722280129230" duration="1639000" />
-      <workItem from="1722372679523" duration="371000" />
+      <workItem from="1722372679523" duration="808000" />
+      <workItem from="1722597052501" duration="21000" />
+      <workItem from="1723634489960" duration="17000" />
+      <workItem from="1723831966073" duration="3057000" />
+      <workItem from="1723836516153" duration="821000" />
+      <workItem from="1723897819290" duration="2223000" />
+      <workItem from="1724088818146" duration="1905000" />
     </task>
     <servers />
   </component>
