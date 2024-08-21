@@ -15,5 +15,9 @@
 
 /ec2_userdata_sg/.terraform/
 /ec2_userdata_sg/.terraform.lock.hcl
+
 /iam_user_and_policy/.terraform/
 /iam_user_and_policy/.terraform.lock.hcl
+
+/targetGroups_ELB_ELBListeners/.terraform/
+/targetGroups_ELB_ELBListeners/.terraform.lock.hcl
