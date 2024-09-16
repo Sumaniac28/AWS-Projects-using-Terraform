@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6651e6f8-bade-4f13-aa4d-4d716a6baae7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/targetGroups_ELB_ELBListeners/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/targetGroups_ELB_ELBListeners/provider.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/targetGroups_ELB_ELBListeners/vars.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/targetGroups_ELB_ELBListeners/versions.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asg/main.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asg/provider.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asg/vars.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asg/versions.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -77,7 +77,9 @@
       <workItem from="1723836516153" duration="821000" />
       <workItem from="1723897819290" duration="2223000" />
       <workItem from="1724088818146" duration="2660000" />
-      <workItem from="1724265207412" duration="4394000" />
+      <workItem from="1724265207412" duration="5361000" />
+      <workItem from="1725907867592" duration="1941000" />
+      <workItem from="1726513331295" duration="2352000" />
     </task>
     <servers />
   </component>

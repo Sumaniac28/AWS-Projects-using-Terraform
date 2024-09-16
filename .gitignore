@@ -21,3 +21,6 @@
 
 /targetGroups_ELB_ELBListeners/.terraform/
 /targetGroups_ELB_ELBListeners/.terraform.lock.hcl
+
+/asg/.terraform.lock.hcl
+/asg/.terraform/
